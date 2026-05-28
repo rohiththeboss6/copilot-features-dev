@@ -1,0 +1,20 @@
+Epic: Subscription Upgrade and Billing Management for Streaming App
+
+Description:
+As a subscribed user, I want to upgrade, downgrade, and manage my subscription plan with secure billing support so that I can choose the right plan for my needs without losing access unexpectedly.
+
+Acceptance Criteria:
+
+Users can access a subscription management page from their account settings.
+Users can view their current subscription plan, renewal date, billing amount, and available upgrade or downgrade options.
+Users can upgrade to a higher plan and receive immediate access to new benefits.
+Users can downgrade to a lower plan, with the downgrade taking effect from the next billing cycle.
+Users can update payment method details securely.
+Users are shown prorated charges or credits before confirming a plan change.
+Users receive confirmation after a successful subscription or billing change.
+Users cannot switch to an invalid or unavailable plan.
+Users see clear error messages for failed payments, invalid card details, or service outages.
+Subscription and billing changes are logged for analytics and audit purposes.
+Users receive an email notification after plan or billing updates.
+System prevents duplicate billing actions when users retry after a timeout or refresh.
+
