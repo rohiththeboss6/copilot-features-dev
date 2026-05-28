@@ -32,4 +32,9 @@ Files added:
 - `.github/hooks/hooks.config.json`
 - `registeration_user_stories.md`
 
+Additional example completed:
+
+- Ran an extra example using `subscription_management_epic.txt` with project key `SUBS`.
+- Generated story output in `streaming_app_subscription_user_stories.md`.
+
 
